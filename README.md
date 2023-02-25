@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Wisley Ribeiro, programador e apaixonado por tecnologia! 🤖
 
-Vasta experiência com Front-End e Back-End. Vejam alguns dos meus trabalhos nos repositórios 🤓
+Vejam alguns dos meus trabalhos nos repositórios 🤓
 
 <div href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=WisleyRibeiro&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
