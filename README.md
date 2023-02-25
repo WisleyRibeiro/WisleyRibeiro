@@ -1,4 +1,4 @@
-## Olá meus amigos! Eu sou o Wisley Ribeiro, programador e apaixonado por tecnologia! 🤖
+## Olá! Eu sou o Wisley Ribeiro, programador e apaixonado por tecnologia! 🤖
 
 Vasta experiência com Front-End e Back-End. Vejam alguns dos meus trabalhos nos repositórios 🤓
 
