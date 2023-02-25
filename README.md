@@ -3,7 +3,6 @@
 Vejam alguns dos meus trabalhos nos repositórios 🤓
 
 <div href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WisleyRibeiro&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WisleyRibeiro&hide_progress=true&theme=tokyonight" />
   <img align="right" alt="Wisley-pic" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1061714165724614657/1078860692314140875/profilew.png?width=414&height=414">
 </div>
